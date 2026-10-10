@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Physics",
+  "description": "A scientific research environment for collecting, processing, and reporting sensor data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
